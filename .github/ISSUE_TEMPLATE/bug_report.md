@@ -16,8 +16,7 @@ DO NOT DELETE ANY TEXT from this template! Otherwise the issue may be closed wit
 
 **Operating environment/Installation (Hass.io/Docker/pip/etc.):**
 <!--
-Please provide details about your environment below the '-->'.
--->
+Please provide details about your environment below this line. -->
 
 **ESP (ESP32/ESP8266, Board/Sonoff):**
 <!--
