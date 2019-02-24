@@ -4,7 +4,7 @@
 
 Issue tracker for [ESPHome](https://esphome.io/).
 
-All bug reports for ESPHome are tracked in the GitHub issue tracker of this repository. Please go to the [issues tab](https://github.com/esphome/featureissues/issues) to view all current bug reports.
+All bug reports for ESPHome are tracked in the GitHub issue tracker of this repository. Please go to the [issues tab](https://github.com/esphome/issues/issues) to view all current bug reports.
 
 Creating a bug report here is the best way to coordinate who wants to implement a new integration/feature and tracking progress. Please note there's no guarantee your feature request will be implemented - it all depends on if enough developers are interested in the feature to implement it and if it fits into ESPHome's architecture.
 
