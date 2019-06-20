@@ -38,11 +38,12 @@ PASTE YAML FILE HERE
 
 ```
 
-**Traceback (if applicable):**
+**Logs (if applicable):**
 <!--
-Please copy the traceback here if compilation is failing. If possible, also connect to the ESP over USB and copy its logs into the backticks.
+Please copy the debug log here. If possible, also connect to the ESP over USB and copy those logs into the backticks.
 -->
 ```
+PASTE DEBUG LOG HERE
 
 ```
 
