@@ -23,6 +23,11 @@ Please provide details about your environment below this line. -->
 Please provide details about which ESP you're using below.
 -->
 
+**ESPHome version (latest production, beta, dev branch)**
+<!--
+ESPHome version like v1.14 or 1.15-dev
+-->
+
 **Affected component:**
 <!--
 Please add the link to the documentation at https://esphome.io/index.html of the component in question.
