@@ -10,6 +10,6 @@ Creating a bug report here is the best way to coordinate who wants to implement 
 
 **Documentation:** https://esphome.io/
 
-**Discord Chat:** https://discord.gg/DrAFdq4
+**Discord Chat:** https://discord.gg/KhAMKrd
 
 For feature requests, please see [feature requests](https://github.com/esphome/feature-requests/issues).
