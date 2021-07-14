@@ -44,12 +44,16 @@ body:
     validations:
       required: true
     attributes:
-      label: What type of board are you using?
-      description: >
-        If you don't know, you can find it in: Configuration panel -> Info.
+      label: What platform are you using?
       options:
         - ESP8266
         - ESP32
+  - type: input
+    attributes:
+      label: Board
+      description: >
+        The name of the board you are using. For example, sonoff basic, nodemcu, shelly.
+
   - type: input
     id: component_name
     attributes:
