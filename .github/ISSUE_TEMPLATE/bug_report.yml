@@ -42,6 +42,13 @@ body:
         - pip
   - type: dropdown
     validations:
+      required: false
+    attributes:
+      label: Which version of Home Assistant has the issue?
+      description: >
+        Home Assistant version like 2021.8.
+  - type: dropdown
+    validations:
       required: true
     attributes:
       label: What platform are you using?
