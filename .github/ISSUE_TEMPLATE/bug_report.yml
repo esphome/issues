@@ -40,6 +40,13 @@ body:
         - Home Assistant Add-on
         - Docker
         - pip
+  - type: input
+    validations:
+      required: false
+    attributes:
+      label: Which version of Home Assistant has the issue?
+      description: >
+        Home Assistant version like 2021.8.
   - type: dropdown
     validations:
       required: true
