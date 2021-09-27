@@ -30,7 +30,7 @@ body:
     attributes:
       label: Which version of ESPHome has the issue?
       description: >
-        ESPHome version like v1.19.0 or v1.XX-dev.
+        ESPHome version like 1.19, 2021.9.0 or 2021.XX.X-dev.
   - type: dropdown
     validations:
       required: true
