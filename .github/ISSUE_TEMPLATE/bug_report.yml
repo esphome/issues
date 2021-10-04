@@ -55,6 +55,7 @@ body:
       options:
         - ESP8266
         - ESP32
+        - ESP32-IDF
   - type: input
     attributes:
       label: Board
