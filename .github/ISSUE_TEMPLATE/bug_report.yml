@@ -60,6 +60,8 @@ body:
         - ESP32
         - ESP32-IDF
         - RP2040
+        - BK72XX
+        - RTL87XX
   - type: input
     id: board
     attributes:
