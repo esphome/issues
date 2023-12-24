@@ -84,7 +84,7 @@ body:
     attributes:
       label: Example YAML snippet
       description: |
-        If this issue has an example piece of YAML that can help reproducing this problem, please provide.
+        If this issue has an example piece of YAML that can help reproducing this problem, please provide it here. Preferably reduce your config to the smallest possible file to reproduce the problem, or post the entire YAML. Posting a YAML fragment that cannot be compiled without changes will lessen the chance that your issue will be responded to promptly.
       render: yaml
   - type: textarea
     id: logs
