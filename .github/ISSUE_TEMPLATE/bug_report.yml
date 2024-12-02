@@ -82,15 +82,15 @@ body:
   - type: textarea
     id: config
     attributes:
-      label: Example YAML snippet
+      label: YAML Config
       description: |
-        If this issue has an example piece of YAML that can help reproducing this problem, please provide it here. Preferably reduce your config to the smallest possible file to reproduce the problem, or post the entire YAML. Posting a YAML fragment that cannot be compiled without changes will lessen the chance that your issue will be responded to promptly.
+        Include the YAML configuration file demonstrating the problem here. If it's a large or complicated config then you will need to reduce it to the smallest possible file that still demonstrates the problem. If you don't provide enough information to *easily* reproduce the problem, it's unlikely your bug report will get any attention. Logs do not belong here, attach them below.
       render: yaml
   - type: textarea
     id: logs
     attributes:
       label: Anything in the logs that might be useful for us?
-      description: For example, error message, or stack traces.
+      description: For example, error message, or stack traces. Serial or USB logs are much more useful than WiFi logs.
       render: txt
   - type: textarea
     id: additional
