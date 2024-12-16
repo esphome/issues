@@ -84,7 +84,7 @@ body:
     attributes:
       label: YAML Config
       description: |
-        Include the YAML configuration file demonstrating the problem here. If it's a large or complicated config then you will need to reduce it to the smallest possible file that still demonstrates the problem. If you don't provide enough information to *easily* reproduce the problem, it's unlikely your bug report will get any attention. Logs do not belong here, attach them below.
+        Include a complete YAML configuration file demonstrating the problem here. Preferably post the *entire* file - don't make assumptions about what is unimportant. However, if it's a large or complicated config then you will need to reduce it to the smallest possible file *that still demonstrates the problem*. If you don't provide enough information to *easily* reproduce the problem, it's unlikely your bug report will get any attention. Logs do not belong here, attach them below.
       render: yaml
   - type: textarea
     id: logs
