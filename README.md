@@ -1,5 +1,3 @@
-# ESPHome Issue Tracker [![Discord Chat](https://img.shields.io/discord/429907082951524364.svg)](https://discord.gg/KhAMKrd) [![GitHub release](https://img.shields.io/github/release/esphome/esphome.svg)](https://GitHub.com/esphome/esphome/releases/)
-
 <a href="https://esphome.io/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://esphome.io/_static/logo-text-on-dark.svg", alt="ESPHome Logo">
@@ -7,14 +5,20 @@
   </picture>
 </a>
 
-Issue tracker for [ESPHome](https://esphome.io/).
+# ESPHome Discontinued Issue tracker
 
-All bug reports for ESPHome are tracked in the GitHub issue tracker of this repository. Please go to the [issues tab](https://github.com/esphome/issues/issues) to view all current bug reports.
+Issues are no longer accepted here, please use the relevant repository for your issue:
 
-Creating a bug report here is the best way to coordinate who wants to implement a new integration/feature and tracking progress. Please note there's no guarantee your feature request will be implemented - it all depends on if enough developers are interested in the feature to implement it and if it fits into ESPHome's architecture.
+- [ESPHome](https://github.com/esphome/esphome/issues) – for compilation issues, runtime crashes and other core issues
+- [Dashboard](https://github.com/esphome/dashboard/issues) – for ESPHome Builder / Dashboard bugs
+- [Documentation](https://github.com/esphome/esphome-docs/issues) - for issues with the ESPHome website and documentation
+- [aioesphomeapi](https://github.com/esphome/aioesphomeapi/issues) - Python API client issues
+- [Home Assistant](https://github.com/home-assistant/core/issues) - For issues that come up inside Home Assistant while using ESPHome devices
 
 **Documentation:** https://esphome.io/
 
 **Discord Chat:** https://discord.gg/KhAMKrd
 
-For feature requests, please see [feature requests](https://github.com/esphome/feature-requests/issues).
+For feature requests, please see [feature requests](https://github.com/orgs/esphome/discussions).
+
+[![Open Home Foundation](https://www.openhomefoundation.org/badges/esphome.png)](https://www.openhomefoundation.org/)
